@@ -30,6 +30,7 @@ ShowCodeCopyButtons = true
 hideMeta = false
 env = "production"
 hideDescriptionInList = false
+disableKinds = "RSS"
 
   [params.profileMode]
   enabled = true
@@ -62,9 +63,3 @@ hideDescriptionInList = false
 [[module.mounts]]
 source = "static"
 target = "static"
-
-outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON
