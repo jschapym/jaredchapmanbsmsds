@@ -1,7 +1,6 @@
-build:
-  command: hugo
-  commandOrigin: config
-  environment:
-    - HUGO_VERSION
-  publish: /opt/build/repo/public
-  publishOrigin: config
+[build]
+command = "hugo"
+commandOrigin = "config"
+environment = [ "HUGO_VERSION" ]
+publish = "/opt/build/repo/public"
+publishOrigin = "config"
