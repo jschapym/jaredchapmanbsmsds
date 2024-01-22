@@ -42,6 +42,8 @@ hideDescriptionInList = false
   [params.cover]
   hiddenInList = false
   hiddenInSingle = false
+  image =
+  "/cover.png"
 
   [[params.socialIcons]]
   name = "email"
