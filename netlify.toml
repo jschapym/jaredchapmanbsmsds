@@ -2,5 +2,5 @@
 command = "hugo"
 commandOrigin = "config"
 HUGO_VERSION = [ "0.121.2" ]
-publish = "/opt/build/repo/public"
+publish = "public"
 publishOrigin = "config"
