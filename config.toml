@@ -1,5 +1,4 @@
 baseURL = 'https://jaredchapmanbsmsds1999.netlify.app/'
-languageCode = 'en'
 title = 'Jared Chapman'
 theme = 'PaperMod'
 publishDir = "public"
@@ -30,6 +29,7 @@ ShowCodeCopyButtons = true
 hideMeta = false
 env = "production"
 hideDescriptionInList = false
+languageCode = 'en'
 disableKinds = "RSS"
 
   [params.profileMode]
