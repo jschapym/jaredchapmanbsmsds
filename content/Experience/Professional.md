@@ -2,8 +2,9 @@
 title: "Professional Experience"
 date: 2024-01-12T22:49:20-06:00
 draft: false
-cover:
-    image: "/Experience/Work2.png"
+params:
+    cover:
+        image: "/Experience/Work2.png"
 ---
 
 # Walgreens Pharmacy (09/2018-08/2021)
