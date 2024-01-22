@@ -1,6 +1,0 @@
-[build]
-    base = "jschapym"
-    command = "npm run build"
-
-[[plugins]]
-    package = "netlify-plugin-one"
