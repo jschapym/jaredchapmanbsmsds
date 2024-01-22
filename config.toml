@@ -31,6 +31,8 @@ hideMeta = false
 env = "production"
 hideDescriptionInList = false
 
+disableKinds = ["RSS"]
+
   [params.profileMode]
   enabled = true
   title = "Jared Chapman"
