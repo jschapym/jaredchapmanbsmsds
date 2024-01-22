@@ -3,8 +3,9 @@ title: "Academic Experience"
 description: "Academic Coursework and Skills"
 date: 2024-01-12T22:13:22-06:00
 draft: false
-cover:
-    image: "/Experience/Northwestern.png"
+params:
+    cover:
+        image: "/Experience/Northwestern.png"
 ---
 # Natural Sciences
 General Chemistry I and II
