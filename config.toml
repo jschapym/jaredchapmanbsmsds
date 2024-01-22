@@ -31,8 +31,6 @@ hideMeta = false
 env = "production"
 hideDescriptionInList = false
 
-disableKinds = ["RSS"]
-
   [params.profileMode]
   enabled = true
   title = "Jared Chapman"
@@ -64,3 +62,9 @@ disableKinds = ["RSS"]
 [[module.mounts]]
 source = "static"
 target = "static"
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
