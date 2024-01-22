@@ -1,0 +1,63 @@
+baseURL = 'https://jaredchapmanbsmsds.com'
+languageCode = 'en-us'
+title = 'Jared Chapman'
+theme = 'PaperMod'
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 10
+
+[[menu.main]]
+identifier = "fact"
+name = "Fact"
+url = "/Facts"
+weight = 20
+
+[[menu.main]]
+identifier = "experience"
+name = "Experience"
+url = "/experience"
+weight = 30
+
+[params]
+showToc = true
+TocOpen = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+hideMeta = false
+env = "production"
+hideDescriptionInList = false
+
+  [params.profileMode]
+  enabled = true
+  title = "Jared Chapman"
+  subtitle = "Hello! My name is Jared Chapman. I graduated from Millikin University in 2021 with my Bachelors of Science in Biochemistry with minors in Biology, Chemistry, Psychology, and Mathematics. Much of my experience comes from the Natural Sciences, specifically laboratory work. I am currently working toward my Masters of Science in Data Science at Northwestern University. I plan to graduate in 2025."
+  imageUrl = "/Home/cover.png"
+  imageWidth = 220
+  imageWeight = 220
+
+  [params.cover]
+  hiddenInList = false
+  hiddenInSingle = false
+
+  [[params.socialIcons]]
+  name = "email"
+  url = "mailto:jaredchapman2025@u.northwestern.edu"
+
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/jared-chapman-msds"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/jschapym"
+
+  [[params.socialIcons]]
+  name = "resumé"
+  url = "https://drive.google.com/file/d/1SNkWMyvtBN4PY7Z9hSUmRLG7stUFHeTb/view?usp=drive_link"
+
+[[module.mounts]]
+source = "static"
+target = "static"
