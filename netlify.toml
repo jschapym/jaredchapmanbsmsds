@@ -1,5 +1,5 @@
 [build]
-    base = "jaredchapmanbsmsds/"
+    base = "jaredchapmanbsmsds"
     command = "yarn deploy"
 
 [[plugins]]
