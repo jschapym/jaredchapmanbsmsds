@@ -2,8 +2,9 @@
 title: "About Me"
 date: 2024-01-12T22:42:32-06:00
 draft: false
-cover:
-    image: "/Facts/Kins.png"
+params:
+    cover:
+        image: "/Facts/Kins.png"
 ---
 # Degrees
 
