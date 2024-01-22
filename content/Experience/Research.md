@@ -2,8 +2,9 @@
 title: "Research Experience"
 date: 2024-01-12T22:42:32-06:00
 draft: false
-cover:
-    image: "/Experience/Research.png"
+params:
+    cover:
+        image: "/Experience/Research.png"
 ---
 # Undergraduate Capstone 
 -	Polymerase Chain Reactions were conducted on several blood samples to distinguish between the Western Painted and Slider turtles without purifying samples.
