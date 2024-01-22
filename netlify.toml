@@ -1,6 +1,6 @@
 [build]
 command = "hugo"
-commandOrigin = "config"
+commandOrigin = "hugo"
 HUGO_VERSION = [ "0.121.2" ]
 publish = "public"
-publishOrigin = "config"
+publishOrigin = "hugo"
