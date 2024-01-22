@@ -1,5 +1,5 @@
 baseURL = 'https://jaredchapmanbsmsds1999.netlify.app/'
-languageCode = 'en-us'
+languageCode = 'en'
 title = 'Jared Chapman'
 theme = 'PaperMod'
 publishDir = "public"
