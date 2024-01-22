@@ -1,6 +1,6 @@
 [build]
-    base = "jaredchapmanbsmsds"
+    base = "jaredchapman"
     command = "npm run build"
 
 [[plugins]]
-    package = "netlify-plugin-cache-nextjs"
+    package = "jaredchapman/jaredchapmanmsds"
