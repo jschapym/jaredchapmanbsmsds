@@ -3,4 +3,4 @@
     command = "npm run build"
 
 [[plugins]]
-    package = "jaredchapman/jaredchapmanmsds"
+    package = "netlify-plugin-one"
