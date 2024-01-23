@@ -6,6 +6,7 @@ params:
     cover:
         image: "/Experience/Work2.png"
 ---
+![Fam](/Experience/Work2.png)
 
 # Walgreens Pharmacy (09/2018-08/2021)
 Pharmacy Technician (CPhT)
