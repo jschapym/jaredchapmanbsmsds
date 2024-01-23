@@ -3,6 +3,11 @@ title = 'Jared Chapman'
 theme = 'PaperMod'
 publishDir = "public"
 
+[languages.en]
+languageName = "English"
+title = "Your Site Title"
+languageCode = "en"
+
 [[menu.main]]
 identifier = "home"
 name = "Home"
