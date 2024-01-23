@@ -7,6 +7,7 @@ params:
     cover:
         image: "/Experience/Northwestern.png"
 ---
+![Fam](/Experience/Northwestern.png)
 # Natural Sciences
 General Chemistry I and II
  Ecology and Evolution |
