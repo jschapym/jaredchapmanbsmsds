@@ -6,6 +6,7 @@ params:
     cover:
         image: "/Experience/Research.png"
 ---
+![Fam](/Experience/Research.png)
 # Undergraduate Capstone 
 -	Polymerase Chain Reactions were conducted on several blood samples to distinguish between the Western Painted and Slider turtles without purifying samples.
 -	Crude blood samples were instrumented to demonstrate the efficacy of performing PCR analyses on products that have not been purified.
