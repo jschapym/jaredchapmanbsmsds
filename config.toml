@@ -29,7 +29,6 @@ weight = 30
   hideMeta = false
   env = "production"
   hideDescriptionInList = false
-  languageCode = 'en'
   disableKinds = "RSS"
 
   [params.profileMode]
