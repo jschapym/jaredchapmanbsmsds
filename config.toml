@@ -5,7 +5,7 @@ publishDir = "public"
 [languages.en]
 languageName = "English"
 title = "Jared Chapman"
-languageCode = "en"
+LanguageCode = "en"
 
 [[menu.main]]
 identifier = "home"
